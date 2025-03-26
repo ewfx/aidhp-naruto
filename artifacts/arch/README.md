@@ -1,4 +1,5 @@
 
     - An architecture drawing
 
-    ![{25406113-6C06-41A6-863A-4DEAAD86490B}](https://github.com/user-attachments/assets/b3d6fdec-740f-4a32-8df7-19b099e31412)
+   ![Arch](https://github.com/user-attachments/assets/53b776fd-f055-4f2c-917d-5994b5475247)
+
