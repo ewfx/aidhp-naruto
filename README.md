@@ -26,12 +26,12 @@ An AI driven system that generates personalized recommendations for products, se
 
 🖼️ Screenshots:
 ![image1](https://github.com/user-attachments/assets/5c29c4e1-2563-42be-90eb-6255b3f7e256)
+![image7](https://github.com/user-attachments/assets/cf41e8f7-cd87-4851-98b0-888fc8524c22)
+![image6](https://github.com/user-attachments/assets/ee6c30a4-cd53-45e8-a940-669ade0919b8)
 ![image2](https://github.com/user-attachments/assets/87271567-69ed-4798-984e-6ed3da57adec)
 ![image3](https://github.com/user-attachments/assets/07f2c897-b618-4b6d-895c-9e134b1e2ca2)
 ![image4](https://github.com/user-attachments/assets/169f5fc8-8515-4917-b1ca-1c896e91047f)
 ![image5](https://github.com/user-attachments/assets/02240ec5-5ed4-467c-854e-5ea10bfd71e3)
-![image6](https://github.com/user-attachments/assets/ee6c30a4-cd53-45e8-a940-669ade0919b8)
-![image7](https://github.com/user-attachments/assets/cf41e8f7-cd87-4851-98b0-888fc8524c22)
 
 
 
@@ -67,7 +67,7 @@ Non-Technical: Ensuring data privacy, cold start problem, and maintaining system
 3. Run the project  
    ```sh
    npm run dev (for frontend)
-    (for Python)
+   python manage.py runserver (for Python)
    ```
 
 ## 🏗️ Tech Stack
