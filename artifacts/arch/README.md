@@ -1,3 +1,4 @@
-Replace this file with a document that describes the architecture and design of your solution architecture. This may include
-    - An architecture drawing exported into a png/jpeg format image
-    - A document in pdf or md format that describes your solution
+
+    - An architecture drawing
+
+    ![{25406113-6C06-41A6-863A-4DEAAD86490B}](https://github.com/user-attachments/assets/b3d6fdec-740f-4a32-8df7-19b099e31412)
